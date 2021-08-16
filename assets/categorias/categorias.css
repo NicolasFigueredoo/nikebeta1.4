@@ -1,0 +1,178 @@
+.categorias{
+    margin-top: 20px;
+    width: 200;
+    padding-left: 30px;
+}
+.titulo-secciones{
+    font-family: "Nike TG",Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.secciones{
+    line-height: 1;
+
+    list-style: none;
+    text-align: none;
+    font-family: "Nike TG",Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.compra{
+    height: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#content{
+    padding-top: 10px;
+    margin-right: 0px;
+}
+.col{
+    width: 0px;
+    height: 0px;
+}
+.col2{
+    height: 0px;
+}
+.cards{
+    border: none;
+    margin: 0px;
+    height: 1080px;
+    width: 1100px;
+}
+
+
+.card-body{
+    padding-left: 0px;
+    line-height: 0px;
+}
+.card-title{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    color: orangered;
+}
+
+.card-text-producto{
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.card-text-genero{
+    font-size: 16px;
+    color: #757575;
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+
+.card-text-precio{
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+
+}
+
+
+
+/*footer*/
+footer{
+    margin-top: 65px;
+    padding-top: 10px;
+    color: white;
+    height: 330px;
+    background-color:#111;
+}
+.info-footer{
+    padding-top: 30px;
+    display: flex;
+}
+
+
+.list{
+    line-height: 25px;
+}
+.footer_txt{
+    
+    list-style: none;
+    text-align: none;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    line-height: 2.5;
+    font-weight: 500;
+    font-size: 12px;  
+}
+
+.footer_txt2{
+    font-size: 12px;
+    line-height: 2;
+    list-style:none;
+    color: #757575;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+.footerfot{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    margin-left: 30px;
+    padding-top: 20px;
+    width: 95%;
+    height: 50px;
+    border-top: 1px solid #7e7e7e;
+}
+.flex{
+    display: flex;
+}
+.location{
+    padding-right: 5px;
+    font-size: 15px;
+    color: white;
+}
+
+
+.ubicacion-txt{
+    font-size: 12px;
+    line-height: 2;
+    list-style:none;
+    color: #757575;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    color: white;
+}
+
+.copyright{
+    padding-left: 8px;
+}
+
+.guias{
+    display: flex;
+}
+.guias p{
+    padding-right: 8px;
+}
+.seccion2{
+margin-left:100px;
+}
+
+.seccion3{
+    margin-left: 100px;
+}
+
+.seccion4{
+    margin-left: 500px;
+}
+
+.seccion4 i{
+
+margin: 7px;
+color: #111;
+background-color: #757575;
+border: 9px solid #757575;
+border-radius: 100%;
+font-size: 17px;
+}
